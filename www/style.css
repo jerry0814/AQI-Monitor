@@ -1,0 +1,37 @@
+#submit{
+	
+    text-align: center;
+    background: rgba(0,0,0,0);
+    color: #2e3a82;font-family: Verdana;
+    padding: 15px 40px;
+    border: 2px solid #2e3a82;
+    font-size: 20px
+}
+
+
+
+#submit0{
+    text-align: center;
+    background: rgba(0,0,0,0);
+    color: dimgray;font-family: Verdana;
+    border: 1px solid dimgray;
+    font-size: 20px
+}
+
+#submit1, #submit2{
+    text-align: center;
+    background: rgba(0,0,0,0);
+    color: dimgray;font-family: Verdana;
+    border: 1px solid dimgray;
+    font-size: 14px
+}
+
+label{
+	font-family: verdana;
+	font-weight: normal
+}
+
+h1,h2,h3,h4{
+	font-family: verdana;
+	font-weight: bold
+}
